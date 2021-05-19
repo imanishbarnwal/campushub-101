@@ -4,3 +4,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 
 - [Manish Kumar Barnwal](https://github.com/imanishbarnwal), I really enjoyed interacting with you all.
 - [Sagnik Mitra](https://github.com/sagnikmitra), Thank You!!
+- [Prachi Kumari](https://github.com/prachi1710), It was really a great session. Learned a lot of things.Thanks.
