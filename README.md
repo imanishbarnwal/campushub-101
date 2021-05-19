@@ -9,3 +9,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Shreya Chatterjee](https://github.com/shreya211120), Thanks for the platform!!
 - [Ashmita Ghosh](https://github.com/ashmitaghosh11), Thanks for the excellent session!!
 - [Demo Account for Admins](https://github.com/sagnikmitrablogs), This the way to do the task!!
+- [Prachi Kumari](https://github.com/prachi1710), It was a wonderful session, Learned a lot of things.Thank you!!
