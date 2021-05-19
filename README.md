@@ -7,5 +7,5 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Anurag Chakraborty](https://github.com/anurag120799), I really enjoyed this session!!
 - [Abhineet Kumar](https://github.com/abhineet-space), Thank You, The session was great!!
 - [Shreya Chatterjee](https://github.com/shreya211120), Thanks for the platform!!
-- [![Linkedin: Nayan](https://img.shields.io/badge/-Nayan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/)](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/), It was a great session, kudos to you guys 👍
+- [Nayan Kumar Sinha](https://www.linkedin.com/in/nayan-kumar-sinha-046bb31b6/), It was a great session, kudos to you guys 👍
 
