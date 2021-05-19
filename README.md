@@ -12,4 +12,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Prachi Kumari](https://github.com/prachi1710), It was a wonderful session, Learned a lot of things.Thank you!!
 - [Biswajit deb](https://github.com/Biswajitdeb), I really enjoyed interacting with you all.
 - [Soumendu Sadhukan](https://github.com/Soumendu1727), It is a great session for me. Thank you!!
-
+- [Srishti Pal](https://github.com/Srishtipal), Amazing session.
