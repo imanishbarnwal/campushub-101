@@ -15,3 +15,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Srishti Pal](https://github.com/Srishtipal), Amazing session.
 - [Mousumi Pal](https://github.com/Mousumi2002), It was an amazing session,I really loved it!
 - [Sayantan De](https://github.com/sayantan2411), Very informative and waiting for more such sessions!
+- [Anuja Singh](https://github.com/imanujasingh), Incredible session, This session Cleared all my doubts regarding git and github.
