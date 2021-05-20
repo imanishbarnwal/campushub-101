@@ -18,3 +18,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Anuja Singh](https://github.com/imanujasingh), Incredible session, This session Cleared all my doubts regarding git and github.
 - [Nayan Kumar Sinha](https://github.com/Nayan-Sinha), It was a great session, kudos to you guys 👍
 - [Sandipa Jana](https://github.com/sandipa573), It was a great session.
+- [Riddhith Banerjee](https://github.com/Riddhith),It was a nice session, really enjoyed it
