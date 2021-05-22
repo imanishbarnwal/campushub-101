@@ -19,4 +19,4 @@ Thanks for being here. Add your name with github ID and your feedback on this ev
 - [Nayan Kumar Sinha](https://github.com/Nayan-Sinha), It was a great session, kudos to you guys 👍
 - [Sandipa Jana](https://github.com/sandipa573), It was a great session.
 - [Riddhith Banerjee](https://github.com/Riddhith),It was a nice session, really enjoyed it
--[Aindrila Das](https://github.com/aindrila61/a.github.io),Thanks for the great session.
+- [Aindrila Das](https://github.com/aindrila61/a.github.io),Thanks for the great session.
